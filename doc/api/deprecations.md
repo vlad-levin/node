@@ -1595,7 +1595,7 @@ Type: End-of-Life
 
 <!-- YAML
 changes:
-  - version: REPLACEME
+  - version: v18.0.0
     pr-url: https://github.com/nodejs/node/pull/41479
     description: End-of-Life.
   - version: v9.0.0
@@ -3065,7 +3065,7 @@ Use [`buffer.subarray`][] which does the same thing instead.
 
 <!-- YAML
 changes:
-  - version: REPLACEME
+  - version: v18.0.0
     pr-url: https://github.com/nodejs/node/pull/41678
     description: End-of-Life.
 -->
@@ -3079,7 +3079,7 @@ the errors used for value type validation.
 
 <!-- YAML
 changes:
-  - version: REPLACEME
+  - version: v18.0.0
     pr-url: https://github.com/nodejs/node/pull/41896
     description: Runtime deprecation.
   - version: v17.6.0

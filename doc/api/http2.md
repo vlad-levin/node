@@ -532,7 +532,7 @@ frames have been acknowledged.
 <!-- YAML
 added: v8.9.3
 changes:
-  - version: REPLACEME
+  - version: v18.0.0
     pr-url: https://github.com/nodejs/node/pull/41678
     description: Passing an invalid callback to the `callback` argument
                  now throws `ERR_INVALID_ARG_TYPE` instead of
@@ -623,7 +623,7 @@ server.on('connect', (session) => {
 <!-- YAML
 added: v8.4.0
 changes:
-  - version: REPLACEME
+  - version: v18.0.0
     pr-url: https://github.com/nodejs/node/pull/41678
     description: Passing an invalid callback to the `callback` argument
                  now throws `ERR_INVALID_ARG_TYPE` instead of
@@ -692,7 +692,7 @@ An object describing the current status of this `Http2Session`.
 <!-- YAML
 added: v8.4.0
 changes:
-  - version: REPLACEME
+  - version: v18.0.0
     pr-url: https://github.com/nodejs/node/pull/41678
     description: Passing an invalid callback to the `callback` argument
                  now throws `ERR_INVALID_ARG_TYPE` instead of
@@ -1226,7 +1226,7 @@ See [`net.Socket.bufferSize`][] for details.
 <!-- YAML
 added: v8.4.0
 changes:
-  - version: REPLACEME
+  - version: v18.0.0
     pr-url: https://github.com/nodejs/node/pull/41678
     description: Passing an invalid callback to the `callback` argument
                  now throws `ERR_INVALID_ARG_TYPE` instead of
@@ -1377,7 +1377,7 @@ value will be `undefined` after the `Http2Stream` instance is destroyed.
 <!-- YAML
 added: v8.4.0
 changes:
-  - version: REPLACEME
+  - version: v18.0.0
     pr-url: https://github.com/nodejs/node/pull/41678
     description: Passing an invalid callback to the `callback` argument
                  now throws `ERR_INVALID_ARG_TYPE` instead of
@@ -1578,7 +1578,7 @@ accepts push streams, `false` otherwise. Settings are the same for every
 <!-- YAML
 added: v8.4.0
 changes:
-  - version: REPLACEME
+  - version: v18.0.0
     pr-url: https://github.com/nodejs/node/pull/41678
     description: Passing an invalid callback to the `callback` argument
                  now throws `ERR_INVALID_ARG_TYPE` instead of
@@ -2062,7 +2062,7 @@ closed, although the server has already stopped allowing new sessions. See
 <!-- YAML
 added: v8.4.0
 changes:
-  - version: REPLACEME
+  - version: v18.0.0
     pr-url: https://github.com/nodejs/node/pull/41678
     description: Passing an invalid callback to the `callback` argument
                  now throws `ERR_INVALID_ARG_TYPE` instead of
@@ -2288,7 +2288,7 @@ closed, although the server has already stopped allowing new sessions. See
 <!-- YAML
 added: v8.4.0
 changes:
-  - version: REPLACEME
+  - version: v18.0.0
     pr-url: https://github.com/nodejs/node/pull/41678
     description: Passing an invalid callback to the `callback` argument
                  now throws `ERR_INVALID_ARG_TYPE` instead of
@@ -3589,7 +3589,7 @@ See [`response.socket`][].
 <!-- YAML
 added: v8.4.0
 changes:
-  - version: REPLACEME
+  - version: v18.0.0
     pr-url: https://github.com/nodejs/node/pull/41678
     description: Passing an invalid callback to the `callback` argument
                  now throws `ERR_INVALID_ARG_TYPE` instead of
