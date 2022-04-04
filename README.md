@@ -370,6 +370,8 @@ For information about the governance of the Node.js project, see
   **Akhil Marsonya** <<akhil.marsonya27@gmail.com>> (he/him)
 * [mcollina](https://github.com/mcollina) -
   **Matteo Collina** <<matteo.collina@gmail.com>> (he/him)
+* [meixg](https://github.com/meixg) -
+  **Xuguang Mei** <<meixuguang@gmail.com>> (he/him)
 * [Mesteery](https://github.com/Mesteery) -
   **Mestery** <<mestery@protonmail.com>> (he/him)
 * [mhdawson](https://github.com/mhdawson) -
@@ -542,8 +544,6 @@ For information about the governance of the Node.js project, see
   **Mathias Buus** <<mathiasbuus@gmail.com>> (he/him)
 * [matthewloring](https://github.com/matthewloring) -
   **Matthew Loring** <<mattloring@google.com>>
-* [meixg](https://github.com/meixg) -
-  **Xuguang Mei** <<meixuguang@gmail.com>> (he/him)
 * [micnic](https://github.com/micnic) -
   **Nicu Micleușanu** <<micnic90@gmail.com>> (he/him)
 * [mikeal](https://github.com/mikeal) -
