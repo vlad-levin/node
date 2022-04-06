@@ -109,7 +109,7 @@ install. To avoid this problem, consider one of the following options:
 
 * Add the `--force` flag to `npm install`; this will tell npm that it's fine to
   override binaries, but you'll erase the Corepack ones in the process. (Run
-  [`corepack enable`][] to add them back).
+  [`corepack enable`][] to add them back.)
 
 [Corepack]: https://github.com/nodejs/corepack
 [Corepack documentation]: https://github.com/nodejs/corepack#readme
